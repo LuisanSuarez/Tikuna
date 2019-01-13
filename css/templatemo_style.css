@@ -387,10 +387,13 @@ hr {
 .flexslider .slider-caption a.slider-btn {
   color: white;
   background-color: #ec523f;
-  padding: 12px 20px;
-  border-radius: 4px;
+  padding: 36px 60px;
+  border-radius: 15px;
   text-transform: uppercase;
   font-weight: 700;
+  font-size: 200%;
+  position: relative;
+  top: 25px;
 }
 @media screen and (min-width: 989px) {
   .flexslider .slider-caption {
@@ -482,7 +485,7 @@ hr {
 }
 
 .content-section {
-  margin-top: 80px;
+  margin-top: 10%;
   padding-top: 60px;
 }
 
@@ -553,6 +556,9 @@ hr {
 }
 .service-item .service-content .inner-service {
   padding: 20px;
+  position: absolute;
+  top: 60px;
+  left: 0;
 }
 .service-item .service-content h3 {
   font-size: 18px;
@@ -673,6 +679,7 @@ hr {
   -webkit-transition: all 200ms ease-in-out;
   -moz-transition: all 200ms ease-in-out;
   transition: all 200ms ease-in-out;
+  display: none;
 }
 .team-member .member-thumb .team-overlay h3 {
   font-size: 18px;
@@ -799,4 +806,28 @@ LUISAN STYLES
 .row.team {
   display:flex;
   justify-content: space-between;
+}
+
+#headshot-luisan {
+  -moz-transform: scaleX(-1);
+  -o-transform: scaleX(-1);
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  filter: FlipH;
+  -ms-filter: "FlipH";
+}
+
+.headshot-title {
+  font-size: 36px;
+  display: flex;
+  justify-content: center;
+  padding-top: 10%;
+}
+
+.headshot-title.maza {
+  margin-left: 10px;
+}
+
+#map {
+  display: none;
 }
