@@ -393,7 +393,7 @@ hr {
   font-weight: 700;
   font-size: 200%;
   position: relative;
-  top: 25px;
+  top: 25px; 
 }
 @media screen and (min-width: 989px) {
   .flexslider .slider-caption {
