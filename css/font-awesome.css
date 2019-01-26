@@ -707,8 +707,8 @@
 .fa-cloud:before {
   content: "\f0c2";
 }
-.fa-decisiones:before {
-  content: url("../images/decisiones.png");
+.fa-expertos:before {
+  content: url("../images/expert-165.png");
 }
 .fa-cut:before,
 .fa-scissors:before {
@@ -1348,7 +1348,7 @@
   content: "\f19b";
 }
 .fa-mejora:before{
-  content: url("../images/mejora.png");
+  content: url("../images/select-165.png");
 }
 .fa-bank:before,
 .fa-university:before {
@@ -1487,7 +1487,7 @@
   content: "\f1c8";
 }
 .fa-analsis:before {
-  content: url("../images/analisis.png");
+  content: url("../images/analytics-165.png");
 }
 .fa-vine:before {
   content: "\f1ca";
@@ -1541,8 +1541,8 @@
 .fa-send-o:before, {
   content: "\f1d9";
 }
-.fa-estacionalidad{
-  content: url("../images/estacionalidad.png");
+.fa-riesgo{
+  content: url("../images/riesgo-165.png");
 }
 .fa-history:before {
   content: "\f1da";
