@@ -105,8 +105,8 @@ html[xmlns] .slides {
 
 .flexslider .slides {
   zoom: 1;
-  max-height: 850px;
-  overflow: hidden;
+  /* max-height: 850px;
+  overflow: hidden; */
 }
 
 .carousel li {

@@ -481,7 +481,15 @@ hr {
     margin-top: 0;
   }
   .flexslider {
-    margin-top: 80px;
+    /* margin-top: 80px; */
+    top: -40px;
+  }
+
+  .flexslider .slides,
+  .flexslider .slides img {
+    height: 100vh;
+    width: auto;
+
   }
 }
 
@@ -490,8 +498,6 @@ hr {
     max-height: 250px;
     padding-right: 15px;
   }
-  
-
 }
 
 .content-section {
@@ -874,9 +880,23 @@ LUISAN STYLES
   .title-img {
     display: none;
   }
+  .flexslider .slides img {
+    transform: translateX(-83px);
+  }
 }
 
 @media (max-width: 768px) {
+
+
+
+  .site-slider{
+    height: 100vh;
+  }
+
+  .flexslider .slides{
+    height: 100vh;
+  }
+
   .flexslider .slider-caption {
     top: 34%;
   }
