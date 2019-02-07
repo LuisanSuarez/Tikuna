@@ -1,9 +1,8 @@
 Luisan
 que nos puedan mandar correos
-avenir next ultra light - font de tikuna
-avenir next lt pro ct 
-avenir next lt pro bold
 
+cambiar el tamaño del logo y el texto en el breakpoint
+overflow en mobile (creo que 990 breakpoint)
 
 
 
