@@ -1,11 +1,41 @@
-Luisan
-que nos puedan mandar correos
+﻿**********************
+*******Luisan*********
+**********************
+poner otra vez el numero y telefono
+ponerles numeros a servicios
+mobile 
 
-cambiar el tamaño del logo y el texto en el breakpoint
-overflow en mobile (creo que 990 breakpoint)
+
+font esta medio chafa para titulos
+analisis con tilde (spell check todo anyway)
+cuadro esta muy rectangulo, hacelo cuadrado
+
+servicios
+probar mas ancho y separado, probar solo sin
+quitar eso de not secure
+	ssl certificates?
+
+desktop ponerle iconos
+cambiar la primera foto, se ve raro
+cambiar el tiempo al carousel
 
 
 
-Maza
-dinero para la cuenta para ver el logo, o volvemelo a pasar
-textos
+
+
+
+
+
+
+el logo del pene tikuna esta apretado en mobile
+probar ver la cara del broder en la tercera foto
+quiero vender - tirar de una al formulario
+1. gracias por ponerte...
+	quitar el think of this like the subject...
+revisar si no hay mas de una vez
+cambiar contacto se ve raro
+
+
+**********************
+*********Maza*********
+**********************
